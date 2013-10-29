@@ -25,6 +25,5 @@ elsif consonants_array.include?(first_letter)
 	word_array.push($stack, "ay")
 	word_array.join
 
-
 	end
 end
